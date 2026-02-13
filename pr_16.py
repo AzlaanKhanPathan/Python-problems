@@ -1,4 +1,5 @@
 # Write a program to find the GCD of two numbers.
+# Commonly known as HCF 
 
 def find_gcd(a,b):
     result = min(a,b)
